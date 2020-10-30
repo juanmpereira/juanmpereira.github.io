@@ -79,8 +79,18 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Alex Smith.", "Designer.", "Developer.", "Freelancer.", "Photographer"],
+      strings: ["Juan Pereira.", "disenador.", "desarrollador.", "estudiante de ingenieria en sistemas de informacion."],
       typeSpeed: 100,
+      loop: true,
+    });
+  });
+
+  var typed2 = $(".typed2");
+
+  $(function() {
+    typed2.typed({
+      strings: ["Juan Pereira.", "designer.", "developer.", "engineering student in information systems."],
+      typeSpeed: 125,
       loop: true,
     });
   });
