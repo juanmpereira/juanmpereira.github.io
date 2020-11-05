@@ -79,7 +79,7 @@ $(document).ready(function() {
 
   $(function() {
     typed.typed({
-      strings: ["Juan Pereira.", "disenador.", "desarrollador.", "estudiante de ingenieria en sistemas de informacion."],
+      strings: ["Soy Juan Pereira.", "disenador.", "desarrollador.", "estudiante de ingenieria en sistemas de informacion."],
       typeSpeed: 100,
       loop: true,
     });
@@ -89,8 +89,8 @@ $(document).ready(function() {
 
   $(function() {
     typed2.typed({
-      strings: ["Juan Pereira.", "designer.", "developer.", "engineering student in information systems."],
-      typeSpeed: 125,
+      strings: ["I'm Juan Pereira.", "designer.", "developer.", "engineering student in information systems."],
+      typeSpeed: 130,
       loop: true,
     });
   });
