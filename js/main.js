@@ -90,7 +90,7 @@ $(document).ready(function() {
   $(function() {
     typed2.typed({
       strings: ["I'm Juan Pereira.","developer.", "studying engineering in information systems."],
-      typeSpeed: 130,
+      typeSpeed: 125,
       loop: true,
     });
   });
